@@ -15,4 +15,5 @@
 13. looka.com : create yuor whole brand
 14. synthesia.io : create videos from plain text in minutes
 15. otter pilot : record your meeting andd audio in form of text
-16. simplified : all in one 
+16. simplified : all in one
+17. bluewillow : generates AI art image from text
