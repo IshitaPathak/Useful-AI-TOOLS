@@ -17,3 +17,4 @@
 15. otter pilot : record your meeting andd audio in form of text
 16. simplified : all in one
 17. bluewillow : generates AI art image from text
+18. you.com : chatgpt alternative
