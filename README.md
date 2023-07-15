@@ -18,3 +18,6 @@
 16. simplified : all in one
 17. bluewillow : generates AI art image from text
 18. you.com : chatgpt alternative
+19. Codium AI : Generate test cases
+20. Adobe firefly : Image generator and editor
+21. Upscayl : Improve image resolution
